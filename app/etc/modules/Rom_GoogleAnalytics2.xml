@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Rom_GoogleAnalytics2>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends>
+                <Mage_Core/>
+                <Mage_GoogleAnalytics/>
+            </depends>
+        </Rom_GoogleAnalytics2>
+    </modules>
+</config>
